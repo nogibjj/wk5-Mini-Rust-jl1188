@@ -21,7 +21,7 @@ cargo lambda invoke --remote \
 }
 
 ```
-![AWS-Lambda-Running-pic](/workspaces/wk5-Mini-Rust-jl1188/roman-lambda/aws-roman-lambda.jpeg?raw=true)
+![AWS-Lambda-Running-pic](https://github.com/nogibjj/wk5-Mini-Rust-jl1188/blob/main/roman-lambda/aws-roman-lambda.jpeg?raw=true)
 
 
 ## References
